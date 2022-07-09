@@ -1,3 +1,3 @@
 # odin-recipes
 
-Un sitio recetas hecho solamente con HTML
+Un sitio de recetas hecho solamente con HTML
